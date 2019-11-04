@@ -1,0 +1,33 @@
+header {
+    padding-left: 700px;
+    font-family: "Varela Round", sans-serif;
+    background-color: white;
+}
+body {
+  background-color: #cfcecc;
+}
+h4 {
+  color: blue;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: red;
+  text-align: center;
+}
+nav {
+  color: blue;
+}
+a:visited {
+  color: blue;
+}
+h2 {
+  color: black;
+}
+img {
+  width: 400px;
+  height: 300px;
+  text-align: center;
+}
